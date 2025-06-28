@@ -78,3 +78,6 @@ The expression is passed to the `evaluate()` function, and the result is printed
 ### **Conclusion**
 
 This program is a simple but powerful demonstration of how to build a **recursive descent parser** for arithmetic expressions in C++. It handles fundamental concepts of parsing, such as grammar rules, operator precedence, and parentheses, all while maintaining clean and readable code through object-oriented design. Although basic in its scope, this program can serve as the foundation for more complex expression evaluators or interpreters, and introduces key techniques used in building compilers and interpreters in the field of computer science.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/0fa95265-de6f-413b-8067-fa7971d7563b)
